@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinkoffHomeWork2</string>
+    <string name="share_text">Share text</string>
+    <string name="new_activity">New activity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn_trap">Its a trap!</string>
+    <string name="trap">I said it was a trap</string>
+</resources>
